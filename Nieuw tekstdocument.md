@@ -8,7 +8,9 @@ kgfsqfd
 erztze
 </body>
 <style name:"stylesheet">
-body{
+body {
 background-color: lightblue;
+font-family: verdana;
 }
+
 </style>
