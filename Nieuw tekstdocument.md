@@ -6,10 +6,9 @@ fdsqf
 hgfjh
 kgfsqfd
 erztze
-
-
-
-
-
-
 </body>
+<style name:"stylesheet">
+body{
+background-color: lightblue;
+}
+</style>
